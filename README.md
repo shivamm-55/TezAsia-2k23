@@ -32,7 +32,6 @@ Krypt embraces interoperability by supporting multiple blockchain networks. This
 Community Governance:
 Krypt believes in community-driven decisions. Through a decentralized governance model, users can participate in proposing and voting on platform upgrades, improvements, and new features.
 
-![image](https://github.com/shivamm-55/TezAsia-2k23/assets/108998384/9a3c2ea0-f9c0-4a0a-9f18-be06c224f33f)
 
 ![image](https://github.com/shivamm-55/TezAsia-2k23/assets/108998384/a6857ea3-5879-4de8-a661-c9ed818b664d)
 
