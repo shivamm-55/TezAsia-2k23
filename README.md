@@ -3,47 +3,42 @@
 ![tezosindia1](https://github.com/TauqeerAhmad5201/TezAsia-2k23/assets/68806440/735f95af-4a62-4095-bdbd-c9fe4f4c57b1)
 
 Welcome to [**Tezasia '23 Hackathon**](https://unstop.com/competitions/tezasia-hackathon-30-tezos-india-695650?ref=NvNQjzFl) powered by [**Tezos India**](https://tezosindia.org.in/) 
-Please find attached the rules and steps to submit your project for the hackathon : 
+ 
+ **Krypt - Web 3.0 Blockchain Application**
+ **Project Description:**
 
-## Step - 1: Fork the repository
-Fork the given repository to your GitHub profile.
+Introducing Krypt, an innovative Web 3.0 blockchain application poised to revolutionize the way we interact with digital assets, securely exchange value, and engage in transparent transactions. Krypt leverages the power of blockchain technology to provide a decentralized, secure, and efficient platform for various use cases, from digital asset management to decentralized finance (DeFi) solutions.
 
-![Screenshot from 2023-07-25 22-28-46](https://github.com/TauqeerAhmad5201/TezAsia-2k23/assets/68806440/ab08cb62-2521-4968-8933-14356844026b)
+Key Features:
+
+Digital Asset Wallet:
+Krypt offers users a robust and user-friendly digital wallet to store, manage, and track various types of digital assets, including cryptocurrencies, non-fungible tokens (NFTs), and more. With security as a top priority, Krypt employs state-of-the-art encryption methods to safeguard users' assets.
+
+Decentralized Exchange (DEX):
+Say goodbye to traditional exchanges. Krypt features a decentralized exchange where users can seamlessly trade digital assets directly from their wallets. Through smart contracts and liquidity pools, Krypt ensures fair, secure, and instant trades while eliminating the need for intermediaries.
+
+Staking and Yield Farming:
+Empower users to grow their assets through staking and yield farming. Krypt's integrated DeFi solutions enable users to earn rewards by providing liquidity to the platform's various pools, contributing to the overall stability and growth of the ecosystem.
+
+NFT Marketplace:
+Discover, buy, and sell NFTs on Krypt's vibrant marketplace. Artists, creators, and collectors can showcase their unique creations and engage in a decentralized environment that ensures the authenticity and provenance of each digital collectible.
+
+Blockchain-Based Identity:
+Krypt introduces a secure and tamper-proof identity verification system using blockchain technology. Users can establish their digital identity, ensuring privacy while enabling seamless interactions with other users and platforms.
+
+Cross-Chain Compatibility:
+Krypt embraces interoperability by supporting multiple blockchain networks. This enables users to access a wide range of digital assets and services across different blockchains, enhancing accessibility and utility.
+
+Community Governance:
+Krypt believes in community-driven decisions. Through a decentralized governance model, users can participate in proposing and voting on platform upgrades, improvements, and new features.
+
+![image](https://github.com/shivamm-55/TezAsia-2k23/assets/108998384/9a3c2ea0-f9c0-4a0a-9f18-be06c224f33f)
+
+![image](https://github.com/shivamm-55/TezAsia-2k23/assets/108998384/a6857ea3-5879-4de8-a661-c9ed818b664d)
 
 
-## Step - 2:  Create your folder
-After forking the repository, clone the repository to your pc/desktop, and then create a folder with your **TeamName** as the folder name.
+https://docs.google.com/presentation/d/1lPKJ0MJgYuQrewH9IxYnHbaFvoO9pyil/edit?usp=sharing&ouid=103250250319257122079&rtpof=true&sd=true
 
-Unclear about cloning? No problem, we've got your back. Click [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to learn about it. 
 
-## Step - 3: Project Code Base
-Push Your code base in this folder.
-This should include all your files for frontend as well as the backend
-* Make sure to include your smart contract code in a file and upload it here.
-     
 
-## Step - 4: Team Info and Project Info
-In your **TeamName** folder, make sure to include the below details in the README.md: 
-  1. Your Project
-  2. Your Project's Description
-  3. What problem you are trying to solve
-  4. Tech Stack used while building the project
-  5. Project Demo Photos, Videos 
-  6. Your Deployed Smart Contract's Link
-  7. If your project is deployed, then include the Live Project Link
-  8. Your PPT link (Make sure to upload the PPT in this folder along with the project)
-  9. Your Team Members' Info.
 
-## Step - 5:  Submitting the code: Making a Pull request
-After you have pushed your files and code base,
-[create an issue](https://github.com/Tezos-India/TezAsia-2k23/issues/new) in the main repository as:
- - Issue:  Team Name: Submission
- - Issue description should include a small glimpse of your project, what is it doing, and how are you trying to achieve it.
-
-After the issue is assigned, make a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) from your forked repo to this repo's main branch while mentioning issue no. assigned to it.
-
-## Guides and Rules for submission:
-1. Make sure you fork the repository first, and create a folder with your team name.
-2. Make all your code added to your forked repo, and then push the code to your main branch after your project is complete.
-3. Make sure to push files to your folder only.
-4. Changing or doing any edits to other folders is strictly prohibited. 
